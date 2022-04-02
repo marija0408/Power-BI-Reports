@@ -1,4 +1,4 @@
-# Power-BI-Reprots
+# Power-BI-Reports
 I made two Power BI reports containg movie data.
 
 # Netflix Report 
