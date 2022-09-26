@@ -1,5 +1,5 @@
 # Power-BI-Reports
-I made two Power BI reports containg movie data.
+I made two Power BI reports containing movie data.
 
 # Netflix Report 
 First report is Netflix Report. The dataset behind it contains data about movies, directors, movie cast etc. The idea behind this report is to show design possibilities.
